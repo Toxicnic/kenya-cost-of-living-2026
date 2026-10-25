@@ -1,0 +1,11 @@
+category,monthly_ksh,evidence_status,notes
+Rent,4235,KNBS reference price,National average; location varies
+Food,10000,Assumption,Needs validation
+Transport,4400,Scenario,KSh 100 each way x 22 days
+Cooking fuel,800,Assumption,Needs validation
+Electricity,500,Assumption,Needs validation
+Water,300,Assumption,Needs validation
+Phone and data,1000,Assumption,Needs validation
+Child needs,2000,Assumption,Depends on child and household
+Toiletries and cleaning,1000,Assumption,Needs validation
+Healthcare and emergencies,1000,Assumption,Variable expense
